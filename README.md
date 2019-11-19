@@ -1,2 +1,5 @@
 # RealestateGUI
-A real estate price prediction gui software using python.
+A housing price prediction gui software using random forest algorithm.
+Made for college project.
+
+
